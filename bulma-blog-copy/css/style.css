@@ -28,17 +28,6 @@
     color: whitesmoke;
 }
 
-.header-title-img {
-    padding-bottom: 1px;
-}
-
-.header-title-img img {
-    height: 150px;
-    width: auto;
-    border-radius: 50%;
-    box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1);
-}
-
 /* hero */
 .hero {
     background-color: transparent;
@@ -98,7 +87,11 @@ a.nav-item:hover, a.nav-item:active, a.nav-item:link, a.nav-item:visited {
 
 /* footer */
 .footer p a {
-    color: #800000;
+    color: #4a4a4a;
+}
+
+.footer p a:hover {
+    color: #000;
 }
 
 .footer a.nav-item:hover {

@@ -1,28 +1,34 @@
-## Bulma Framework Examples
+### bulma templates
 
-Bulma Framework template compilation of the small themes I make. Ever learning, so they're not perfect.
+a small collection of bulma css templates. completely open source and free. be aware that these templates use version 0.4.0 of bulma css and may not have complete mobile support.
 
-Can download all, any or one and change as much as you like.
+support jeremy thomas and the bulma framework on [patreon](https://www.patreon.com/jgthms). 
 
-### Example Links
+support and use [philip walton's sticky footer](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/).
 
-Below are examples of the templates in this repository. Most, with very few exceptions, examples have a: index page, about page, static page (blog post, for example) and contact page.
+### live examples
 
-(UT means I am unhappy with the template and plan on re-doing it at some point)
+some of the links here are likely busted, so clone the repo and view the html files in your browser as an alternative.
 
-[blog-article](https://plasticneko.github.io/bulma-blog-article/) (UT) - article-based blog template
+[blog-neko](https://dozyhermit.github.io/bulma-blog-neko/) - blog template
 
-[blog-clean](https://plasticneko.github.io/bulma-blog-clean/) - clean blog template
+[blog-darker](https://dozyhermit.github.io/bulma-blog-darker/) - dark blog template
 
-[blog-darker](https://plasticneko.github.io/bulma-blog-darker/) - dark blog template
+[blog-article](https://dozyhermit.github.io/bulma-blog-article/) - article-based blog template
 
-[blog-simple](https://plasticneko.github.io/bulma-blog-simple/) - simple blog template
+[blog-clean](https://dozyhermit.github.io/bulma-blog-clean/) - clean blog template
 
-[twitch-simple](https://plasticneko.github.io/bulma-twitch-simple/online.html) - simple twitch template (/online.html /offline.html variants) (examples: /examples/bnans /examples/rockleesmile)
+[blog-simple](https://dozyhermit.github.io/bulma-blog-simple/) - simple blog template
 
-[blog-labeler](https://plasticneko.github.io/bulma-blog-labeler/) - label focused blog template
+[twitch-simple](https://dozyhermit.github.io/bulma-twitch-simple/online.html) - simple twitch template 
 
-[blog-copy](https://plasticneko.github.io/bulma-blog-copy/) - fork of the bootstrap clean blog template
+i'm not sure if any of the people below have been cancelled or anything, so feel free to let me know or open a pr.
 
-[single-code](https://plasticneko.github.io/bulma-single-code/) - single page for a coding project
+- example one: https://dozyhermit.github.io/bulma-twitch-simple/examples/bnans/online.html (or offline.html) 
+- example two: https://dozyhermit.github.io/bulma-twitch-simple/examples/rockleesmile/online.html (or offline.html)
 
+[blog-labeler](https://dozyhermit.github.io/bulma-blog-labeler/) - label focused blog template
+
+[blog-copy](https://dozyhermit.github.io/bulma-blog-copy/) - fork of the bootstrap clean blog template
+
+[single-code](https://dozyhermit.github.io/bulma-single-code/) - single page for a coding project

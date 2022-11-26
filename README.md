@@ -22,7 +22,7 @@ some of the links here are likely busted, so clone the repo and view the html fi
 
 [twitch-simple](https://dozyhermit.github.io/bulma-twitch-simple/online.html) - simple twitch template 
 
-i'm not sure if any of the people below have been cancelled or anything, so feel free to let me know or open an pr.
+i'm not sure if any of the people below have been cancelled or anything, so feel free to let me know or open a pr.
 
 - example one: https://dozyhermit.github.io/bulma-twitch-simple/examples/bnans/online.html (or offline.html) 
 - example two: https://dozyhermit.github.io/bulma-twitch-simple/examples/rockleesmile/online.html (or offline.html)

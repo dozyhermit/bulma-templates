@@ -1,14 +1,14 @@
-### bulma templates
+### Bulma Templates
 
-a small collection of bulma css templates. completely open source and free. be aware that these templates use version 0.4.0 of bulma css and may not have complete mobile support.
+A small collection of Bulma CSS templates, which are completely open source and free. Be aware that these templates use version 0.4.0 of Bulma CSS and may not have complete mobile support.
 
-support jeremy thomas and the bulma framework on [patreon](https://www.patreon.com/jgthms). 
+Support Jeremy Thomas and the Bulma CSS framework on [Patreon](https://www.patreon.com/jgthms). 
 
-support and use [philip walton's sticky footer](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/).
+Support and use [Philip Walton's sticky footer](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/).
 
-### live examples
+### Examples
 
-some of the links here are likely busted, so clone the repo and view the html files in your browser as an alternative.
+If the links below are busted, clone the repo and view the HTML files in your browser locally.
 
 [blog-neko](https://dozyhermit.github.io/bulma-blog-neko/) - blog template
 
@@ -22,10 +22,10 @@ some of the links here are likely busted, so clone the repo and view the html fi
 
 [twitch-simple](https://dozyhermit.github.io/bulma-twitch-simple/online.html) - simple twitch template 
 
-i'm not sure if any of the people below have been cancelled or anything, so feel free to let me know or open a pr.
+I'm not sure if any of the people below have been cancelled or anything, so feel free to let me know or open a pr.
 
-- example one: https://dozyhermit.github.io/bulma-twitch-simple/examples/bnans/online.html (or offline.html) 
-- example two: https://dozyhermit.github.io/bulma-twitch-simple/examples/rockleesmile/online.html (or offline.html)
+- Example one: https://dozyhermit.github.io/bulma-twitch-simple/examples/bnans/online.html (or offline.html) 
+- Example two: https://dozyhermit.github.io/bulma-twitch-simple/examples/rockleesmile/online.html (or offline.html)
 
 [blog-labeler](https://dozyhermit.github.io/bulma-blog-labeler/) - label focused blog template
 

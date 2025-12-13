@@ -2,13 +2,13 @@
 
 A small collection of Bulma CSS templates, which are completely open source and free. Be aware that these templates use version 0.4.0 of Bulma CSS and may not have complete mobile support.
 
-Support Jeremy Thomas and the Bulma CSS framework on [Patreon](https://www.patreon.com/jgthms). 
+Support Jeremy Thomas and the Bulma CSS framework on [Patreon](https://www.patreon.com/jgthms).
 
 Support and use [Philip Walton's sticky footer](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/).
 
 ### Examples
 
-If the links below are busted, clone the repo and view the HTML files in your browser locally.
+If the links below are busted, clone this repo and view the HTML files in your browser locally.
 
 [blog-neko](https://dozyhermit.github.io/bulma-blog-neko/) - blog template
 
@@ -20,12 +20,11 @@ If the links below are busted, clone the repo and view the HTML files in your br
 
 [blog-simple](https://dozyhermit.github.io/bulma-blog-simple/) - simple blog template
 
-[twitch-simple](https://dozyhermit.github.io/bulma-twitch-simple/online.html) - simple twitch template 
+[twitch-simple](https://dozyhermit.github.io/bulma-twitch-simple/online.html) - simple twitch template
 
-I'm not sure if any of the people below have been cancelled or anything, so feel free to let me know or open a pr.
+Examples: [Bnans](https://dozyhermit.github.io/bulma-twitch-simple/examples/bnans/online.html) (offline.html variant available), [Rockleesmile](https://dozyhermit.github.io/bulma-twitch-simple/examples/rockleesmile/online.html) (offline.html variant available)
 
-- Example one: https://dozyhermit.github.io/bulma-twitch-simple/examples/bnans/online.html (or offline.html) 
-- Example two: https://dozyhermit.github.io/bulma-twitch-simple/examples/rockleesmile/online.html (or offline.html)
+_I'm not sure if any of these people have been cancelled or whatever, so feel free to let me know._
 
 [blog-labeler](https://dozyhermit.github.io/bulma-blog-labeler/) - label focused blog template
 

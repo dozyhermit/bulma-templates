@@ -1,91 +1,94 @@
-/* github.com/plasticneko */
+/* github.com/dozyhermit */
 /* bulma css framework by jeremy thomas (github.com/jgthms | bulma.io) */
 
 /* basic formatting changes */
 
 body {
-    font-family: 'Fira Sans', sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 
 .main-content {
-    padding-top: 0.5rem;
-    padding-bottom: 3rem;
+  padding-top: 0.5rem;
+  padding-bottom: 3rem;
 }
 
 .hero-header-label {
-    padding-bottom: 15px;
+  padding-bottom: 15px;
 }
 
 a {
-    color: #d971ff;
+  color: #d971ff;
 }
 
 /* input formatting */
-.input, .textarea {
-    padding: 7px;
+.input,
+.textarea {
+  padding: 7px;
 }
 
-.input:focus, .textarea:focus {
-    border-color: #d971ff;
+.input:focus,
+.textarea:focus {
+  border-color: #d971ff;
 }
 
 /* button formatting */
 .button:focus {
-    border-color: #d971ff;
+  border-color: #d971ff;
 }
 
 .button:hover {
-    border-color: whitesmoke;
-    background-color: #d971ff;
-    color: whitesmoke;
+  border-color: whitesmoke;
+  background-color: #d971ff;
+  color: whitesmoke;
 }
 
 /* labelling formatting */
 .title .labels a {
-    font-size: 0.7em;
+  font-size: 0.7em;
 }
 
 /* page header formatting */
 .main-header .title {
-    font-size: 2.5em;
+  font-size: 2.5em;
 }
 
 /* navigation formatting */
-.nav, .card-header {
-    background-color: #00d1b2;
+.nav,
+.card-header {
+  background-color: #00d1b2;
 }
 
 a.nav-item.is-tab.is-active {
-    color: whitesmoke;
-    border-bottom: 3px solid #d971ff;
+  color: whitesmoke;
+  border-bottom: 3px solid #d971ff;
 }
 
 a.nav-item.is-tab {
-    color: whitesmoke;
+  color: whitesmoke;
 }
 
 a.nav-item.is-tab:hover {
-    border-bottom: 3px solid #d971ff;
+  border-bottom: 3px solid #d971ff;
 }
 
 /* card formatting */
 .card-header-title {
-    color: whitesmoke;
+  color: whitesmoke;
 }
 
 .card-wrapper {
-    padding-bottom: 22px;
+  padding-bottom: 22px;
 }
 
 /* box formatting */
 .box-header {
-    padding-bottom: 25px;
+  padding-bottom: 25px;
 }
 
 .box-content-text {
-    padding-bottom: 15px;
+  padding-bottom: 15px;
 }
 
 .box-content-text p {
-    padding-bottom: 15px;
+  padding-bottom: 15px;
 }

@@ -1,28 +1,28 @@
-/* github.com/plasticneko */
+/* github.com/dozyhermit */
 /* bulma css framework by jeremy thomas (github.com/jgthms | bulma.io) */
 
 .button.is-primary {
-    background-color: #00d1b2;
-    border-color: #fff;
-    color: #fff;
+  background-color: #00d1b2;
+  border-color: #fff;
+  color: #fff;
 }
 
 .button {
-    padding: 20px;
+  padding: 20px;
 }
 
 pre {
-    white-space: pre-wrap;
+  white-space: pre-wrap;
 }
 
 .pre-wrapper {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .header-titles {
-    padding-bottom: 50px;
+  padding-bottom: 50px;
 }
 
 .content .main-text p:last-child {
-    padding-bottom: 30px;
+  padding-bottom: 30px;
 }
